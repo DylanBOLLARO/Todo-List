@@ -8,7 +8,7 @@ body {
   height: 100vh;
   background-image: radial-gradient(
     circle farthest-corner at 10% 20%,
-    rgb(106, 103, 90) 0%,
+    rgb(106, 103, 90),
     rgba(32, 45, 58, 1) 81.3%
   );
   display: flex;
